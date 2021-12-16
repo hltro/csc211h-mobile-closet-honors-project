@@ -5,3 +5,5 @@ My project aims to address the issue of clothing waste by enabling consumers to 
 This application is developed by Jingjing Ye, under the supervision of Dr. Azhar as the honor's project for the course CSC211H Advanced Programming Techniques.
 
 Link to website for more information: https://sites.google.com/view/csc211h-project/home
+
+# Inspiration
