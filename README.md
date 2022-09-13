@@ -1,4 +1,5 @@
 # CSC211H-Honors-Project
+2nd Place for BMCC Virtual Hack-A-Thon Fall 2021: Hacking for Social Good 🙌: https://devpost.com/software/green-hanger-your-mobile-closet
 
 # Inspiration
 My project aims to address the issue of clothing waste by enabling consumers to track their clothing purchases and the clothes they own, so that people can recognize how much they are spending on clothing, cut down on consumption, encourage reuse and recycle, and help save the planet.
